@@ -1,0 +1,30 @@
+{
+  "name": "app01-intro",
+  "version": "1.0.0",
+  "description": "Aplicacion de escritorio multiplataforma en Electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OscarGM40/CursoElectron.git"
+  },
+  "keywords": [
+    "Electron",
+    "Node.js",
+    "escritorio",
+    "multiplataforma",
+    "Chromium"
+  ],
+  "author": "Oscar Gonzalez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OscarGM40/CursoElectron/issues"
+  },
+  "homepage": "https://github.com/OscarGM40/CursoElectron#readme",
+  "devDependencies": {
+    "electron": "^10.1.2"
+  }
+}
